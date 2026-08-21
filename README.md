@@ -1,16 +1,26 @@
-## Hi there 👋
+#Computer Science student | Learning to code | Ex-military
 
-<!--
-**joaomellocode/joaomellocode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student (Systems Analysis and Development) at UNISUAM, 
+transitioning into a career in tech. Currently focused on programming 
+logic and building a foundation in C, actively looking for an internship 
+opportunity in software development.
 
-Here are some ideas to get you started:
+#Bio / About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My background includes one year of service in the Brazilian Navy and two 
+years as a production operator at Avva Química S/A, which gave me discipline, 
+consistency, and a strong work ethic that I now bring into learning to code.
+
+Always improving, one project at a time.
+
+#Areas of Interest:
+- Programming logic and algorithms
+- Data structures
+- Software development
+
+#Technologies:
+Languages: C (in progress)
+
+#Contact: 
+LinkedIn: https://www.linkedin.com/in/joão-guilherme-mello-dias-818914302/
+GitHub: See my pinned projects below
