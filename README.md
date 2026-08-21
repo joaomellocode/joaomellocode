@@ -26,5 +26,4 @@ Languages: C (in progress)
 # Contact: 
 
 LinkedIn: https://www.linkedin.com/in/joão-guilherme-mello-dias-818914302/
-
 GitHub: See my pinned projects below
